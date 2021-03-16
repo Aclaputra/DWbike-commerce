@@ -1,7 +1,7 @@
 # DWbike-commerce
 ![](Readme_img/Homepage.JPG)
 # Tampilan Homepage
-e-commerce with shopping cart and login using php &amp; mysql <br>
+E-commerce with shopping cart and login system using php &amp; mysql <br>
 Bertujuan untuk tidak terpaku pada keindahan HTML CSS saja seharian.. Disini saya Menggunakan Bootstrap Versi Terbaru yaitu Twitter <a href="https://getbootstrap.com/">Bootstrap 5</a> sebagai pemilihan UI yang efisien.
 
 ![](Readme_img/Cart.JPG)
